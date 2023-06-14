@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc691"
+  },
+  "id": 1396,
+  "titre": "Breaking Bad",
+  "resume": "Walter White, professeur de chimie dans un lycée d'Albuquerque au Nouveau-Mexique, est atteint d'un cancer pulmonaire en phase terminale. Il s'associe à Jesse Pinkman, un ancien élève, cancre, toxicomane et dealer, afin d'assurer l'avenir financier de sa famille après son décès. L'improbable duo va alors synthétiser et commercialiser la plus pure méthamphétamine en cristaux jamais vue dans les Amériques.",
+  "poster": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+  "date": "2008-01-20",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc692"
+  },
+  "id": 94605,
+  "titre": "Arcane",
+  "resume": "Championnes de leurs villes jumelles et rivales, deux sœurs se battent dans une guerre où font rage des technologies magiques et des perspectives diamétralement opposées.",
+  "poster": "/ypS7R36Vjcn51zZsXsta5onnaCo.jpg",
+  "date": "2021-11-06",
+  "evaluations": 1,
+  "commentaires": 1
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc693"
+  },
+  "id": 100088,
+  "titre": "The Last of Us",
+  "resume": "Vingt ans après la destruction de la civilisation moderne, Joel, un survivant endurci, est engagé pour faire sortir Ellie, une jeune fille de 14 ans, d'une zone de quarantaine oppressante. Ce qui n'est au départ qu'un petit travail se transforme rapidement en un voyage brutal et époustouflant, alors que ce duo improbable dépend de l'autre pour sa survie.",
+  "poster": "/4pMd9VAdqm96KA2W4X8yetgc7EF.jpg",
+  "date": "2023-01-15",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc694"
+  },
+  "id": 60625,
+  "titre": "Rick et Morty",
+  "resume": "Rick est un scientifique âgé et déséquilibré qui a récemment renoué avec sa famille. Il passe le plus clair de son temps à entraîner son petit-fils Morty dans des aventures extraordinaires et dangereuses, à travers l'espace et dans des univers parallèles. Ajoutés à la vie de famille déjà instable de Morty, ces événements n'amènent qu'un surcroît de stress pour Morty, à la maison et à l'école...",
+  "poster": "/s11re4xQLZ6pRPv2sqXnK8CCvGn.jpg",
+  "date": "2013-12-02",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc695"
+  },
+  "id": 37854,
+  "titre": "One Piece",
+  "resume": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+  "poster": "/oag7edI9flSMawmNySEiSEJAbrf.jpg",
+  "date": "1999-10-20",
+  "evaluations": 1,
+  "commentaires": 1
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc696"
+  },
+  "id": 31911,
+  "titre": "Fullmetal Alchemist : Brotherhood",
+  "resume": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+  "poster": "/dzSALlMy3Mss6kPMjvf4Sl4pAtR.jpg",
+  "date": "2009-04-05",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc697"
+  },
+  "id": 70785,
+  "titre": "Anne with an E",
+  "resume": "Canada, 1890. Anne Shirley, jeune fille de 13 ans maltraitée en orphelinat et par des familles d'accueil, atterrit par erreur dans le foyer d'une vieille dame sans enfant et de son frère. Avec le temps, Anne va illuminer leur vie grâce à son esprit fantasque, sa vive intelligence et son imagination débordante !",
+  "poster": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+  "date": "2017-03-19",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc698"
+  },
+  "id": 67915,
+  "titre": "Goblin",
+  "resume": "Kim Shin, ancien général condamné à l'immortalité et transformé en gobelin, part à la recherche d'une épouse humaine qui pourra retirer une épée invisible de sa poitrine et mettre fin à sa vie. Un jour, une étudiante lui avoue être l'élue.",
+  "poster": "/qZMEiTsNlCQV27hHQE27ZtlPWyv.jpg",
+  "date": "2016-12-02",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc699"
+  },
+  "id": 65930,
+  "titre": "My Hero Academia",
+  "resume": "Super héros, super pouvoirs… On a tous déjà rêvé secrètement de posséder une qualité hors du commun, de briller ou d’être LA personne la plus puissante de l’univers. Dans ce nouveau monde, ce rêve est à la portée de quasiment toute la population car les humains peuvent désormais naître avec un pouvoir : le « alter ». Mais certains malchanceux naissent sans alter. C’est très fâcheux si on est chétif, pleurnicheur et dépourvu de charisme et surtout si malgré tout ça, on nourrit l’ambition de devenir le méga super héros de…",
+  "poster": "/dmUuNVWAJumRkDNuauFaLSvga00.jpg",
+  "date": "2016-04-03",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69a"
+  },
+  "id": 85937,
+  "titre": "Demon Slayer : Kimetsu no Yaiba",
+  "resume": "Tanjirô, un jeune et sympathique vendeur de charbon voit son quotidien changer radicalement après le massacre de sa famille par un démon. Seule sa petite sœur Nezuko survit à l’attaque, mais elle est transformée en un démon féroce. Ils partent tous deux en voyage afin de prendre leur revanche et de rendre à Nezuko son apparence d’origine. Vivez avec eux ce périple dans lequel le destin des humains et des démons s’entremêlent.",
+  "poster": "/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg",
+  "date": "2019-04-06",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69b"
+  },
+  "id": 95557,
+  "titre": "Invincible",
+  "resume": "Après avoir découvert que son père est le super-héros le plus puissant du monde, un ado développe lui aussi des pouvoirs et décide de suivre les traces de son géniteur...",
+  "poster": "/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg",
+  "date": "2021-03-25",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69c"
+  },
+  "id": 92685,
+  "titre": "Luz à Osville",
+  "resume": "Luz, une adolescente humaine pleine d’assurance, tombe accidentellement sur un portail permettant d’accéder à un monde magique où elle se liera d’amitié avec une sorcière rebelle, Eda, et un démon guerrier adorable, King. Bien qu’elle ne possède pas de pouvoirs magiques, Luz poursuit son rêve de devenir une sorcière en servant Eda comme apprentie au Manoir de la Chouette et trouve finalement une nouvelle famille dans un environnement improbable.",
+  "poster": "/1qO9yHz28uZ5g4QAZPJL8vqsLeb.jpg",
+  "date": "2020-01-10",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69d"
+  },
+  "id": 114410,
+  "titre": "Chainsaw Man",
+  "resume": "Denji est un adolescent qui vit avec son chien-démon-tronçonneuse, Pochita. À cause d’une énorme dette que son père a laissée derrière lui, le garçon se retrouve dans la misère la plus totale, cherchant avec Pochita à rembourser l’argent en récoltant des cadavres de démons pour le compte d’une organisation.\n\nUn jour, Denji est trahi et tué. Encore conscient, il passe un contrat avec Pochita et renaît sous le nom de Chainsaw Man, un homme au cœur de démon …",
+  "poster": "/oeNps5WE8umMVcNISI8M2NHk7jg.jpg",
+  "date": "2022-10-12",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69e"
+  },
+  "id": 246,
+  "titre": "Avatar : Le dernier maître de l'air",
+  "resume": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
+  "poster": "/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
+  "date": "2005-02-21",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc69f"
+  },
+  "id": 31132,
+  "titre": "Regular Show",
+  "resume": "La série se focalise sur deux compères, un geai bleu nommé Mordecai et un raton-laveur nommé Rigby, tous deux employés dans un parc. Leurs tentatives pour s'amuser plutôt que de travailler les entraînent dans des mésaventures souvent surréalistes...",
+  "poster": "/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+  "date": "2010-09-06",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc6a0"
+  },
+  "id": 83121,
+  "titre": "Kaguya-sama : Love is War",
+  "resume": "L’académie Shûchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu’ils se plaisent. Mais six mois s’écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu’à pousser l’autre à se déclarer. Tout le plaisir de l’amour s’éprouve avant qu’il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C’est la guerre !",
+  "poster": "/xxdu5VfiQLN4ZhA4VMw3tJ1Pi6T.jpg",
+  "date": "2019-01-12",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc6a1"
+  },
+  "id": 135157,
+  "titre": "Alchemy of Souls",
+  "resume": "Une puissante sorcière dans le corps d'une femme aveugle rencontre un homme d'une famille prestigieuse, qui veut son aide pour changer son destin.",
+  "poster": "/pGs6UA4rPUZEokDyTwAGdRvwrAD.jpg",
+  "date": "2022-06-18",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc6a2"
+  },
+  "id": 89456,
+  "titre": "Primal",
+  "resume": "L'amitié improbable entre un homme des cavernes à l'aube de l'évolution et un dinosaure dont l'espèce est sur le point de s'éteindre. Les deux s'unissent pour leur survie dans un monde primaire et violent.",
+  "poster": "/jflPzxYbM4MxxCppo2AbvSbTOLm.jpg",
+  "date": "2019-10-08",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc6a3"
+  },
+  "id": 76121,
+  "titre": "Darling in The FranXX",
+  "resume": "Dans un lointain futur, le Terre est en ruines et l’humanité s’est retranchée dans une ville fortifiée mobile, Plantation. Un quartier, Mistilteinn, est dédié à la formation de jeunes pilotes qui ne connaissent rien du monde extérieur. Leur seul but dans la vie est d’apprendre à piloter des robots, les Franxx, afin d’affronter un mystérieux ennemi géant mais invisible. Parmi eux, Hiro (Code 016) était un enfant particulièrement doué, promis à devenir un grand pilote, mais qui a eu le malheur d'échouer ! Mis au rebut, son inaptitude à piloter le condamne à l'oubli. Un jour débarque une jeune fille appelée Zero Two dont le visage est orné de deux cornes. Elle le désigne d’office comme son nouvel équipier…",
+  "poster": "/eYZwt4g1MUv9h34eNAMOsnl63Jf.jpg",
+  "date": "2018-01-13",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645023bdd1e2cb4c01ccc6a4"
+  },
+  "id": 154521,
+  "titre": "Les Kardashian",
+  "resume": "La famille que vous connaissez et aimez est ici avec une toute nouvelle série, donnant un accès complet à leur vie.  Kris, Kourtney, Kim, Khloé, Kendall et Kylie ramènent les caméras pour révéler la vérité derrière les gros titres.  Des pressions intenses de la gestion d'entreprises d'un milliard de dollars aux joies hilarantes de la récréation et des abandons scolaires, cette série amène les téléspectateurs dans le giron avec une histoire d'une honnêteté fascinante sur l'amour et la vie sous les projecteurs.",
+  "poster": "/pZzN9fP1bH8rZtGTEKmMYERPdwI.jpg",
+  "date": "2022-04-14",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "6453a831e718d93ffff689eb"
+  },
+  "id": 210942,
+  "titre": "Lookism",
+  "resume": "Gros, laid et impopulaire, Hyeong-Seok Park est méprisé par les autres lycéens et est victime de violence ainsi que de harcèlement. Sa vie va toutefois changer du jour au lendemain, non pas parce qu'il change de lycée, mais parce qu'il va se réveiller dans un autre corps, celui d'un garçon beau, grand et musclé.\n\nComment réussira-t-il à s'adapter dans ce nouveau corps tout en acceptant la réalité qu'il a décidé de fuir ?",
+  "poster": "/pPMQ3lqLrQiCDGlGsbjQ2rc2ZWu.jpg",
+  "date": "2022-12-08",
+  "evaluations": 0,
+  "commentaires": 0
+},{
+  "_id": {
+    "$oid": "645a8ba5fc2e2a4bee2d6644"
+  },
+  "id": 46298,
+  "titre": "Hunter x Hunter",
+  "resume": "Gon Freeccs a presque douze ans, et son rêve est de devenir hunter (chasseur en anglais). Les hunters sont des aventuriers d’élite qui peuvent être chasseurs de prime, chefs-cuisinier, archéologues, zoologues, justiciers ou consultants dans divers domaines. Son père, Jin Freeccs, qu’il ne connaît pas directement, est l’un des plus grands hunters de son temps. C’est aussi pour le retrouver que Gon veut devenir hunter. Cependant l’examen de hunter, qui a lieu chaque année, est extrêmement difficile et périlleux. On dit qu’un candidat sur 10 000 arrive sur le lieu des épreuves et qu’un seul candidat tous les 3 ans devient hunter à sa 1ère tentative. Durant les épreuves, il n’est pas rare d’être blessé, voire tué par des monstres, des pièges ou même d’autres concurrents…",
+  "poster": "/tolQj5yffSxkEGXusPwNcvYrbph.jpg",
+  "date": "2011-10-02",
+  "evaluations": 0,
+  "commentaires": 0
+}]

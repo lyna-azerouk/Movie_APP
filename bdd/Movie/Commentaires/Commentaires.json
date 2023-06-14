@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "645af2795652d414a3c4d740"
+  },
+  "id": "08a31a97-3ff0-4ca1-af28-0fe44bf67ba8",
+  "type": "Film",
+  "typeId": 502356,
+  "userId": "farouck",
+  "nom": "Super Mario Bros. le film",
+  "contenu": "trop bien ce film ",
+  "date": {
+    "$date": "2023-05-10T01:25:13.954Z"
+  }
+},{
+  "_id": {
+    "$oid": "645af2845652d414a3c4d750"
+  },
+  "id": "8be22fd9-b932-4c29-8a75-d081b41a5df6",
+  "type": "Serie",
+  "typeId": 94605,
+  "userId": "farouck",
+  "nom": "Arcane",
+  "contenu": "Incroyable",
+  "date": {
+    "$date": "2023-05-10T01:25:24.888Z"
+  }
+},{
+  "_id": {
+    "$oid": "645af931b037f43c9a39d8ef"
+  },
+  "id": "2ac289d3-d689-4916-9111-aa7d6e3ffa66",
+  "type": "Film",
+  "typeId": 447365,
+  "userId": "farouck",
+  "nom": "Les Gardiens de la Galaxie : Volume 3",
+  "contenu": "Film vraiment cool à voir ! ",
+  "date": {
+    "$date": "2023-05-10T01:53:53.470Z"
+  }
+}]

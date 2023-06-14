@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "645af27d5652d414a3c4d744"
+  },
+  "id": "89744604-5344-4549-ab5a-63b90f5a2d3e",
+  "type": "Film",
+  "typeId": 502356,
+  "userId": "farouck",
+  "nom": "Super Mario Bros. le film",
+  "note": 5,
+  "date": {
+    "$date": "2023-05-10T01:25:17.689Z"
+  }
+},{
+  "_id": {
+    "$oid": "645af2895652d414a3c4d754"
+  },
+  "id": "8cfa8a25-d1b2-4047-8149-25db7e2a912d",
+  "type": "Serie",
+  "typeId": 94605,
+  "userId": "farouck",
+  "nom": "Arcane",
+  "note": 5,
+  "date": {
+    "$date": "2023-05-10T01:25:29.805Z"
+  }
+},{
+  "_id": {
+    "$oid": "645af933b037f43c9a39d8f3"
+  },
+  "id": "466170d9-d846-4b88-93ce-dbd6e7a2e1fd",
+  "type": "Film",
+  "typeId": 447365,
+  "userId": "farouck",
+  "nom": "Les Gardiens de la Galaxie : Volume 3",
+  "note": 5,
+  "date": {
+    "$date": "2023-05-10T01:53:55.375Z"
+  }
+}]

@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "645af26b5652d414a3c4d72b"
+  },
+  "identifiant": "farouck",
+  "mdp": "78ccbc54635e4d57cf47b14de958e0ca79d17474ca9e4cde938aa6bb0e56b889",
+  "commentaires": 3,
+  "evaluations": 3
+}]

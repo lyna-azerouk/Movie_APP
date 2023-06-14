@@ -1,0 +1,66 @@
+h3 {
+    margin-left : 20px;
+}
+
+p {
+  margin-left : 20px;
+
+}
+
+.film, .serie {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .film-image, .serie-image {
+    width: 150px;
+    margin-left: 40px;
+  }
+  
+  .film-image img, .serie-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .film-details, .serie-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+  }
+  
+  .film-meta, .serie-meta {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .film-evaluations, .serie-evaluations {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .film-commentaires, .serie-commentaires {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  @media (max-width: 768px) {
+    .film, .serie {
+      flex-direction: column;
+    }
+  
+    .film-image, .serie-image {
+      width: 20%;
+      margin-left: 20px;
+      margin-bottom: 10px;
+    }
+    
+  }
+  .poster-hover:hover {
+    cursor: pointer;
+  }
+
+  
